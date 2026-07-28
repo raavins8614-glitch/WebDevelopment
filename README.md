@@ -1,1 +1,1 @@
-# WebDevelopment
+# Web Development course -Tegh
