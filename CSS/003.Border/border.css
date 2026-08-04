@@ -1,0 +1,18 @@
+h1{
+    color: aquamarine;
+    border-width:100px;
+    border-color: red;
+    border-style: groove;
+}
+h3{
+    color: midnightblue;
+    border-width: 50px;
+    border-color: green;
+    border-style: dashed;
+}
+h6{
+    color: turquoise;
+    border-width: 25;
+    border-color: brown;
+    border-style: double;
+}
